@@ -3,7 +3,7 @@
 
 # Introducción
 En este documento se explicará la prueba a desarrollar para valorar las habilidades del candidato.
-Concepto
+# Concepto
 El concepto de la prueba es muy sencillo.
 El candidato tiene dos opciones en las que basar dicha prueba
 -	Un sistema de ticketing, en el que se puedan crear nuevos tickets, editar tickets, obtener comentarios y documentos en base a un ticket, y poder borrar tickets.
@@ -25,11 +25,11 @@ Se pide la implementación de una api desarrollada con NET CORE (V5 o V6) en la 
 -	Principios SOLID
 -	DDD (Domáin drive design)
 -	Inyección de dependencias
-Se valorará positivamente el incluir test unitarios, así como todas aquellas soluciones que el candidato considere que ayudan a mejorar el código, tanto a nivel lógico como a nivel visual.
-Se tendrán en cuenta todas las soluciones aportadas por el candidato, aunque estas no funcionen correctamente (si se diera el caso). Al final la idea es valorar el conjunto de habilidades de las que dispone el candidato para el día a día.
-No se requiere que la api tenga ningún FRONTEND, todas las comprobaciones se harán mediante swagger.
+- Se valorará positivamente el incluir test unitarios, así como todas aquellas soluciones que el candidato considere que ayudan a mejorar el código, tanto a nivel lógico como a nivel visual.
+- Se tendrán en cuenta todas las soluciones aportadas por el candidato, aunque estas no funcionen correctamente (si se diera el caso). Al final la idea es valorar el conjunto de habilidades de las que dispone el candidato para el día a día.
+- No se requiere que la api tenga ningún FRONTEND, todas las comprobaciones se harán mediante swagger.
 
-Entregable
+# Entregable
 El candidato deberá de crear un repositorio en github con todos los ficheros que compongan su prueba técnica, y avisar para proceder a su evaluación
 
 > Happy coding!
